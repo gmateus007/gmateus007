@@ -16,7 +16,9 @@ Por enquanto, sou apenas um estudante, mas pretendo seguir carreira na área da 
 
 ### Habilidades Pessoais
 
-atualmente estou aprendendo a jogar volei, na posição delíbero. No futsal, já jogo há um tempo normalmente de fixo e quando necessario de ala 
+ conhecimento basico em informatica
+ sou prestativo e pretico esportes como futsal.
+
 <div align="center">
   <img width=35.5% src="https://github.com/gmateus007/gmateus007/blob/main/volei.jpeg"/>
   <img width=30% src="https://github.com/gmateus007/gmateus007/blob/main/futsal.jpeg"/>
