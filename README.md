@@ -12,8 +12,7 @@ Olá, me chamo Mateus Gomes, sou adventista, e estou cursando informática no In
 
 ### Informações Profissionais
 
-Por enquanto, sou apenas um estudante, mas pretendo seguir carreira na área da militar
-
+Por enquanto, sou apenas um estudante.
 ### Habilidades Pessoais
 
  conhecimento basico em informatica
